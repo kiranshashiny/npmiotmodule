@@ -20,6 +20,14 @@ creating an account, device, and configure it to receive events from the device 
 In my case, I have an Arduino sending ( publishing ) temperature data to the IoT Platform, and this
 code receives it and displays it.
 
+The Subscribe API reference that was used for pubsub_bluemix.js was from this URL :
+
+https://console.ng.bluemix.net/docs/services/IoT/applications/libraries/nodejs.html
+
+If you want to simulate such an experiment - then create an IBM Id, create an account in IBM Bluemix console.ng.bluemix.net,
+create a IoT Service and note down the credentials (API Key details )
+
+
 <b> Device: </b>
 
 Snapshot of the Serial Monitor on the Arduino Sketch, which displays the temperature being published
