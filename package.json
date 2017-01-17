@@ -1,0 +1,24 @@
+{
+  "name": "@whitewater/npmiotmodule",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiranshashiny/npmiotmodule.git"
+  },
+  "keywords": [
+    "iot",
+    "npm",
+    "bluemix"
+  ],
+  "author": "Shashi Kiran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiranshashiny/npmiotmodule/issues"
+  },
+  "homepage": "https://github.com/kiranshashiny/npmiotmodule#readme"
+}
