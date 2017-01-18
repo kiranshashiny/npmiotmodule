@@ -43,3 +43,6 @@ Snapshot of the Serial Monitor on the Arduino Sketch, which displays the tempera
 
 <img width="794" alt="screen shot 2017-01-17 at 3 09 52 pm" src="https://cloud.githubusercontent.com/assets/14288989/22015202/1056ff76-dcc7-11e6-93b3-5b069a023d2a.png">
 
+<b> Snapshot of the Arduino Device </b>
+
+<img width="264" alt="screen shot 2017-01-18 at 7 42 04 pm" src="https://cloud.githubusercontent.com/assets/14288989/22067205/45c5ee84-ddb6-11e6-926c-1e2a7d70c921.png">
